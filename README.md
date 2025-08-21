@@ -25,10 +25,10 @@ php script.php
 
 2. After running, open trips.geojson in a GeoJSON viewer or map application:
 
-Online viewers:
+Open in an online GeoJSON viewer
 
-https://geojson.io
+Go to https://geojson.io
 
-https://mapshaper.org
+Click Open → File → select trips.geojson
 
-Local: Open the trips.geojson file in any compatible GIS software like QGIS.
+The trips will be displayed on the map.
