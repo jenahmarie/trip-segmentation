@@ -4,5 +4,5 @@
 2. Run the script:
 
 ```bash
-php your_script.php
+php script.php
 ```
