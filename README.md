@@ -22,3 +22,13 @@ A simple tool to process GPS trip data and generate GeoJSON outputs.
 ```bash
 php script.php
 ```
+
+2. After running, open trips.geojson in a GeoJSON viewer or map application:
+
+Online viewers:
+
+https://geojson.io
+
+https://mapshaper.org
+
+Local: Open the trips.geojson file in any compatible GIS software like QGIS.
